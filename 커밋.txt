@@ -1,0 +1,7 @@
+git bash 열어서 
+
+git add mini_project3
+git commit -m "Add mini_project3 files"  # 폴더 추가 커밋
+git push origin master   # master 브랜치로 푸시
+# 또는
+git push origin main     # main 브랜치로 푸시
